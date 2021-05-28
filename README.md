@@ -1,5 +1,11 @@
-# Ration
+# Curso de JavaScript Full Stack con Sails.js
 
+### Proyecto del curso
+![Proyect](https://ration.io/images/ration-logo.png)
+
+## Ration
+App creada con Sails.js para perdir prestado lo que necesita, prestar lo que no necesita.
+Compartir elementos con Ration es muy fácil. Tome una foto de las cosas que no desea que ocupen espacio en su apartamento / casa / sótano / lo que sea, pero que aún desea conservar en caso de que lo necesite algún día. Entonces, si un amigo lo necesita, ¡vendrá a buscarlo! El vínculo de amistad se fortalecerá y tendrás más espacio.
 
 ### Demo
 
